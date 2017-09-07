@@ -1,0 +1,28 @@
+html {
+	background-image: url(https://images.solecollector.com/complex/image/upload/c_fill,f_auto,fl_lossy,q_auto,w_1100/air-jordan-11-retro-playoffs-2012_pqquyy.jpg);
+}
+h1{
+	color:#FF9966;
+	text-align: center;
+}
+span{
+	color: purple;
+	font-size: 100px
+}
+p{
+	color: green;
+}
+.paragraph {
+	color: orange;
+}
+#header p {
+	color: blue;
+}
+#header .paragraph {
+	color: red;
+}
+
+#header {max-width: 900px; 
+		width: 100%;
+		background: white;
+	}
